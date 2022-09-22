@@ -87,6 +87,7 @@ a {
     top: 0;
     left: 0;
     padding: 0 0 32px 24px;
+    box-shadow: -2px 0px 4px rgba(69, 79, 126, 0.02), 16px 0px 52px rgba(14, 24, 80, 0.2);
 }
 
 
